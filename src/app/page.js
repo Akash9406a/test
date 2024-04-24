@@ -59,12 +59,12 @@ const internalLogin = () => {
         </button>
         <div className="text-center flex justify-center ">
           <p className="text-white">Don't have an Account?&nbsp;</p>
-          <Link
+          {/* <Link
             href="/internal/signup"
             className="text-orange-500 hover:underline"
           >
             Signup Now
-          </Link>
+          </Link> */}
         </div>
       </form>
     </div>
